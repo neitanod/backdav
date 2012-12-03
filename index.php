@@ -190,6 +190,7 @@ class WebDAV {
 
   protected function recursiveRemoveDirectory($directory, $empty=FALSE)
   {
+    // Taken from: http://lixlpixel.org/recursive_function/php/recursive_directory_delete/
     if(substr($directory,-1) == '/')
     {
       $directory = substr($directory,0,-1);
