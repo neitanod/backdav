@@ -22,5 +22,5 @@ Usage
 1. Upload the file index.php into a password protected folder in your 
 PHP server.
 2. Create a network drive in your computer pointing to: 
-   youruser:yourpass@http://yourserver/path/index.php/
+   http://youruser:yourpass@yourserver/path/index.php/
 3. Open and browse your network drive.
