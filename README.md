@@ -19,8 +19,8 @@ a vulnerability, so use it at your own risk.
 Usage
 -----
 
-1. Upload the file index.php into a password protected folder in your 
+1. Upload the file bdav.php into a password protected folder in your 
 PHP server.
 2. Create a network drive in your computer pointing to: 
-   http://youruser:yourpass@yourserver/path/index.php/
+   http://youruser:yourpass@yourserver/path/bdav.php/
 3. Open and browse your network drive.
